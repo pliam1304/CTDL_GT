@@ -1,0 +1,13 @@
+Ma NV   Ho      tLot     Ten     NTNSinh     Dia Chi     Luong
+2523480  Vo      Minh     Duong   3/1/1986    Da_Lat      15000543
+1134547  Hoang   Hoa      Tra     12/12/1987  Khanh_Hoa   18183210
+2134067  Truong  Thanh    Hang    2/2/1980    Phu_Yen     15080543
+1212435  Nguyen  Thi      Hang    10/8/1987   Binh_Dinh   20232343
+2234545  Le      Van      Trong   12/5/1991   Hue         18183210
+2603235  Van     Minh     Duong   10/10/1988  Da_Lat      18183210
+1503438  Tran    Hoang    Hoa     15/10/1986  Binh_Dinh   18183210
+2134007  Ly      Thi      Hang    18/2/1980   Khanh_Hoa   20232343
+2101345  Dinh    Thai     Duong   21/9/1988   Da_Lat      15080543
+2001453  Le      Van      Tan     25/6/1988   Hue         18183210
+2222205  Trinh   Hoai     Duong   19/10/1991  Da_Lat      18183210
+1652345  Nguyen  Minh     Tan     22/9/1988   Binh_Dinh   20232343
