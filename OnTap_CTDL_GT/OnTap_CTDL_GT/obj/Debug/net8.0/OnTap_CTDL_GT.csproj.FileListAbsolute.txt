@@ -1,0 +1,14 @@
+H:\CodePlace\si sap\OnTap_CTDL_GT\OnTap_CTDL_GT\obj\Debug\net8.0\OnTap_CTDL_GT.GeneratedMSBuildEditorConfig.editorconfig
+H:\CodePlace\si sap\OnTap_CTDL_GT\OnTap_CTDL_GT\obj\Debug\net8.0\OnTap_CTDL_GT.AssemblyInfoInputs.cache
+H:\CodePlace\si sap\OnTap_CTDL_GT\OnTap_CTDL_GT\obj\Debug\net8.0\OnTap_CTDL_GT.AssemblyInfo.cs
+H:\CodePlace\si sap\OnTap_CTDL_GT\OnTap_CTDL_GT\obj\Debug\net8.0\OnTap_CTDL_GT.csproj.CoreCompileInputs.cache
+H:\CodePlace\si sap\OnTap_CTDL_GT\OnTap_CTDL_GT\bin\Debug\net8.0\OnTap_CTDL_GT.exe
+H:\CodePlace\si sap\OnTap_CTDL_GT\OnTap_CTDL_GT\bin\Debug\net8.0\OnTap_CTDL_GT.deps.json
+H:\CodePlace\si sap\OnTap_CTDL_GT\OnTap_CTDL_GT\bin\Debug\net8.0\OnTap_CTDL_GT.runtimeconfig.json
+H:\CodePlace\si sap\OnTap_CTDL_GT\OnTap_CTDL_GT\bin\Debug\net8.0\OnTap_CTDL_GT.dll
+H:\CodePlace\si sap\OnTap_CTDL_GT\OnTap_CTDL_GT\bin\Debug\net8.0\OnTap_CTDL_GT.pdb
+H:\CodePlace\si sap\OnTap_CTDL_GT\OnTap_CTDL_GT\obj\Debug\net8.0\OnTap_CTDL_GT.dll
+H:\CodePlace\si sap\OnTap_CTDL_GT\OnTap_CTDL_GT\obj\Debug\net8.0\refint\OnTap_CTDL_GT.dll
+H:\CodePlace\si sap\OnTap_CTDL_GT\OnTap_CTDL_GT\obj\Debug\net8.0\OnTap_CTDL_GT.pdb
+H:\CodePlace\si sap\OnTap_CTDL_GT\OnTap_CTDL_GT\obj\Debug\net8.0\OnTap_CTDL_GT.genruntimeconfig.cache
+H:\CodePlace\si sap\OnTap_CTDL_GT\OnTap_CTDL_GT\obj\Debug\net8.0\ref\OnTap_CTDL_GT.dll
